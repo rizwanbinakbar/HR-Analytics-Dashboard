@@ -1,50 +1,32 @@
 # HR-Analytics-Dashboard
-
-
 This project visualizes an HR dataset using Power BI, transforming raw employee data into actionable insights for workforce planning, performance monitoring, and attrition analysis.
 Dashboard Features
+## Dashboard Features
 
-    Workforce Overview Panel
-    A snapshot of total employees, average age, department-wise headcount, and gender distribution. It gives a high-level view of the organization's human capital.
+- Displays employee demographics such as age, name, location
+- Shows employee rating across departments, job roles and experience
+- Includes metrics salay and age group
+- Interactive filters for easier navigation and data exploration.
+- Interactive Tooltips for better Employee and Gender decision-making 
 
-    Employee Performance Analysis
-    Visualize performance ratings across departments, job roles, and experience levels. Identify top performers and areas needing training or support.
+## Project Files
 
-    Attrition & Retention Insights
-    Analyze employee turnover trends, reasons for leaving, and compare attrition rates by department, gender, and tenure. Helps identify retention risks.
+-  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
+-  Dataset used
+- ![DashBoard](docs/Full%20Dashboard.png)
+- ![Expense Tooltip](docs/Expense%20Tooltip.png)
 
-    Hiring & Demographics Breakdown
-    Track hiring trends over time, diversity metrics, and the distribution of education levels and job roles within the organization.
+## Tools and Technologies
 
-    Time Series Trends
-    Monthly/quarterly insights into headcount changes, attrition spikes, or hiring bursts to support workforce planning and HR strategy.
+- Power BI Desktop
+- Power Query
+- DAX
+- HR Dataset (ChatGPT + Puthon Faker library)
 
-    Interactive Filters and Drilldowns
-    Each page includes interactive slicers to filter by department, job role, education, gender, age group, and employment status—customized for different stakeholder needs.
+## Notes
 
-Project Files
+- The visuals are fully interactive and dynamically update based on slicers and filters.
+- Interactive Calender and Refresh buttons, Tooltips
+- Data used is for educational and portfolio purposes only.
 
-    Power BI report file (Email me if you'd like the source file: rizwanforbuissnes@gmail.com — happy to share 😊)
-
-    Dataset used (Available in this repo)
-
-Tools and Technologies
-
-    Power BI Desktop
-
-    Power Query
-
-    DAX
-
-    HR Dataset (Enriched; sourced from Kaggle)
-
-Notes
-
-    All visuals are fully interactive and dynamically update based on slicers and filters.
-
-    Includes tooltips, calendar-based filters, and refresh controls for dynamic reporting.
-
-    Data used is for educational and portfolio purposes only.
-
-Regards,
-Rizwan Bin Akbar
+Regards, **Rizwan Bin Akbar**
