@@ -5,7 +5,7 @@ Dashboard Features
 
 - Displays employee demographics such as age, name, location
 - Shows employee rating across departments, job roles and experience
-- Includes metrics salay and age group
+- Includes metrics salary and age group
 - Interactive filters for easier navigation and data exploration.
 - Interactive Tooltips for better Employee and Gender decision-making 
 
@@ -21,7 +21,7 @@ Dashboard Features
 - Power BI Desktop
 - Power Query
 - DAX
-- HR Dataset (ChatGPT + Puthon Faker library)
+- HR Dataset (Chat GPT + Python Faker library)
 
 ## Notes
 
