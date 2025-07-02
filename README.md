@@ -13,9 +13,10 @@ Dashboard Features
 
 -  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
 -  Dataset used
- ![DashBoard](docs/Summary%20Dashboard.png)
 
- ![Expense Tooltip](docs/Employee%20Dashboard.png)
+![DashBoard](docs/Summary%20Dashboard.png)
+
+![Employee Summary](docs/Employee%20Dashboard.png)
 
 ## Tools and Technologies
 
